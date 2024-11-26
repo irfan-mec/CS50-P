@@ -1,4 +1,4 @@
-# Main Repository: CS50-P
+# CS50-P
 
 Welcome to the **CS50P - Introduction to Programming with Python** repository. This repository contains the problem sets and final project completed as part of Harvard University's CS50P course. This course covers foundational concepts in programming and computational thinking, using Python as the primary language.
 
